@@ -96,3 +96,9 @@ Icon
 *_copy.htm
 *_copy.html
 *.pdb
+cmc-leaguecinema-admin-service-contract/build/rebel.xml
+cmc-leaguecinema-admin-service/build/rebel.xml
+cmc-leaguecinema-admin-web/build/rebel.xml
+cmc-leaguecinema-common/build/rebel.xml
+cmc-leaguecinema-core-admin-web/build/rebel.xml
+src/main/resources/rebel.xml
